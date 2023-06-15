@@ -1,0 +1,343 @@
+
+       198
+       <span aria-hidden="true">
+        g
+       </span>
+       <span class="sr-only">
+        grams
+       </span>
+      </span>
+      )
+      <div class="nf-item-name block">
+       Paneer Butter Masala
+      </div>
+     </div>
+    </div>
+    <!-- end of class="nf-serving" -->
+   </div>
+   <!-- end of class="nf-line" -->
+   <div class="nf-bar2">
+   </div>
+   <div class="nf-amount-per-serving" tabindex="0">
+    Amount Per Serving
+   </div>
+   <div class="nf-calories" tabindex="0">
+    <span class="">
+     Calories
+    </span>
+    <span class="nf-pr" itemprop="calories">
+     201
+    </span>
+   </div>
+   <div class="nf-bar1">
+   </div>
+   <div class="nf-line nf-text-right">
+    <span class="nf-highlight nf-percent-dv">
+     % Daily Value*
+    </span>
+   </div>
+   <div class="nf-line" tabindex="0">
+    <span class="nf-highlight">
+     Total Fat
+    </span>
+    <span class="" itemprop="fatContent">
+     16
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+    <span class="nf-highlight nf-pr">
+     21%
+     <span class="sr-only">
+      Daily Value
+     </span>
+    </span>
+   </div>
+   <div class="nf-line nf-indent" tabindex="0">
+    <span class="">
+     Saturated Fat
+    </span>
+    <span class="" itemprop="saturatedFatContent">
+     8.6
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+    <span class="nf-highlight nf-pr">
+     43%
+     <span class="sr-only">
+      Daily Value
+     </span>
+    </span>
+   </div>
+   <div class="nf-line nf-indent" tabindex="0">
+    <span class="">
+     <em>
+      Trans
+     </em>
+     Fat
+    </span>
+    <span class="" itemprop="transFatContent">
+     0.5
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+   </div>
+   <div class="nf-line nf-indent" tabindex="0">
+    <span class="">
+     Polyunsaturated Fat
+    </span>
+    <span class="" itemprop="">
+     1
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+   </div>
+   <div class="nf-line nf-indent" tabindex="0">
+    <span class="">
+     Monounsaturated Fat
+    </span>
+    <span class="" itemprop="">
+     4.7
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+   </div>
+   <div class="nf-line" tabindex="0">
+    <span class="nf-highlight">
+     Cholesterol
+    </span>
+    <span class="" itemprop="cholesterolContent">
+     41
+     <span aria-hidden="true">
+      mg
+     </span>
+     <span class="sr-only">
+      milligrams
+     </span>
+    </span>
+    <span class="nf-highlight nf-pr">
+     14%
+     <span class="sr-only">
+      Daily Value
+     </span>
+    </span>
+   </div>
+   <div class="nf-line" tabindex="0">
+    <span class="nf-highlight">
+     Sodium
+    </span>
+    <span class="" itemprop="sodiumContent">
+     503
+     <span aria-hidden="true">
+      mg
+     </span>
+     <span class="sr-only">
+      milligrams
+     </span>
+    </span>
+    <span class="nf-highlight nf-pr">
+     22%
+     <span class="sr-only">
+      Daily Value
+     </span>
+    </span>
+   </div>
+   <div class="nf-line" tabindex="0">
+    <span class="nf-highlight">
+     Total Carbohydrates
+    </span>
+    <span class="" itemprop="carbohydrateContent">
+     6.9
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+    <span class="nf-highlight nf-pr">
+     3%
+     <span class="sr-only">
+      Daily Value
+     </span>
+    </span>
+   </div>
+   <div class="nf-line nf-indent" tabindex="0">
+    <span class="">
+     Dietary Fiber
+    </span>
+    <span class="" itemprop="fiberContent">
+     1.5
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+    <span class="nf-highlight nf-pr">
+     5%
+     <span class="sr-only">
+      Daily Value
+     </span>
+    </span>
+   </div>
+   <div class="nf-line nf-indent" tabindex="0">
+    <span class="">
+     Sugars
+    </span>
+    <span class="" itemprop="sugarContent">
+     3.7
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+   </div>
+   <div class="nf-line" tabindex="0">
+    <span class="nf-highlight">
+     Protein
+    </span>
+    <span class="" itemprop="proteinContent">
+     8.2
+     <span aria-hidden="true">
+      g
+     </span>
+     <span class="sr-only">
+      grams
+     </span>
+    </span>
+   </div>
+   <div class="nf-bar2">
+   </div>
+   <div class="nf-vitamins">
+    <div class="nf-vitamins">
+     <div class="" tabindex="0">
+      <span class="">
+       Vitamin D
+      </span>
+      <span class="" itemprop="vitaminDContent">
+       1.1
+       <span aria-hidden="true">
+        mcg
+       </span>
+       <span class="sr-only">
+        micrograms
+       </span>
+      </span>
+      <span class="nf-highlight nf-pr">
+       6%
+       <span class="sr-only">
+        Daily Value
+       </span>
+      </span>
+     </div>
+     <div class="nf-line" tabindex="0">
+      <span class="">
+       Calcium
+      </span>
+      <span class="" itemprop="calciumContent">
+       224
+       <span aria-hidden="true">
+        mg
+       </span>
+       <span class="sr-only">
+        milligrams
+       </span>
+      </span>
+      <span class="nf-highlight nf-pr">
+       17%
+       <span class="sr-only">
+        Daily Value
+       </span>
+      </span>
+     </div>
+     <div class="nf-line" tabindex="0">
+      <span class="">
+       Iron
+      </span>
+      <span class="" itemprop="ironContent">
+       0.9
+       <span aria-hidden="true">
+        mg
+       </span>
+       <span class="sr-only">
+        milligrams
+       </span>
+      </span>
+      <span class="nf-highlight nf-pr">
+       5%
+       <span class="sr-only">
+        Daily Value
+       </span>
+      </span>
+     </div>
+     <div class="nf-line" tabindex="0">
+      <span class="">
+       Potassium
+      </span>
+      <span class="" itemprop="potassiumContent">
+       290.6
+       <span aria-hidden="true">
+        mg
+       </span>
+       <span class="sr-only">
+        milligrams
+       </span>
+      </span>
+      <span class="nf-highlight nf-pr">
+       6%
+       <span class="sr-only">
+        Daily Value
+       </span>
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="nf-bar2">
+   </div>
+   <div class="" tabindex="0">
+    <span class="nf-highlight">
+     Caffeine
+    </span>
+    <span class="" itemprop="caffeineContent">
+     0mg
+    </span>
+   </div>
+   <div class="nf-bar1">
+   </div>
+   <div class="nf-vitamins">
+    <div class="nf-footnote">
+     <span tabindex="0">
+      The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2000 calories a day is used for general nutrition advice.
+     </span>
+    </div>
+    <div class="naTooltip">
+     Data not available
+    </div>
+   </div>
+   <!-- closing class="nf" -->
+  </div>
+ </div>
+</div>
