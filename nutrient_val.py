@@ -12,7 +12,7 @@ driver.maximize_window()
 
 # Open the webpage
 driver.get("https://www.nutritionix.com/")  # Replace with the URL of your desired webpage
-wait = WebDriverWait(driver, 10)
+wait = WebDriverWait(driver, 5)
 element = wait.until(EC.element_to_be_clickable((By.XPATH, "//span[contains(@class, 'ui-select-toggle')]")))
 element.click()
 search_query = "paneer butter masala"
@@ -22,11 +22,11 @@ import time
 time.sleep(1)
 search_input.send_keys(Keys.ENTER)
 import time
-time.sleep(10)
+time.sleep(5)
 current_url = driver.current_url
 driver.get(driver.current_url) 
 
-element = WebDriverWait(driver, 10).until(
+element = WebDriverWait(driver, 5).until(
     EC.element_to_be_clickable((By.CSS_SELECTOR, 'a.item-link'))
 )
 
@@ -36,7 +36,7 @@ h4_value = h4_element.text
 # Click on the <a> element
 element.click()
 
-time.sleep(10)
+time.sleep(5)
 # print(driver.current_url)
 current_url = driver.current_url
 driver.quit()

@@ -19,7 +19,7 @@ def websitescrapper(ur):
 
     # Wait for the page to fully load (adjust the sleep time as needed)
     import time
-    time.sleep(10)
+    time.sleep(5)
 
     # Get the page source (which now includes the dynamically generated content)
     html_content = driver.page_source
