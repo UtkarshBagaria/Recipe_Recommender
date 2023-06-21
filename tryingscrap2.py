@@ -39,7 +39,8 @@ def websitescrapper(ur):
 
     # Find the main content within the body tag
     body_content = soup.find('body')
-
+    if(body_content==None):
+        return None
     # Get the clean HTML code of the body content
     clean_html = body_content.prettify()
 
@@ -50,7 +51,8 @@ def websitescrapper(ur):
 
     # Find the <div> tag with the specified id
     div_tag = soup.find('div', class_='label-container')
-
+    if(div_tag==None):
+        return None
     # Get the clean HTML code of the <div> tag
     div_html = div_tag.prettify()
     # print(type(div_html))
