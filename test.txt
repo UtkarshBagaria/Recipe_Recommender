@@ -1,0 +1,12 @@
+Indian                  1336
+Continental             1283
+North Indian Recipes    1053
+South Indian Recipes     779
+Italian Recipes          262
+                        ... 
+Jewish                     1
+Bangladeshi                1
+Singapore                  1
+Shandong                   1
+Swedish                    1
+Name: cuisine, Length: 77, dtype: int64
